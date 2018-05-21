@@ -15,6 +15,9 @@ export default {
 <style lang="scss" scoped>
   .view{
     position: relative;
+    h1 img{
+      max-width:100%;
+    }
     #particles-js{
       position: absolute;
       top: 0;
